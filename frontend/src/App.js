@@ -72,12 +72,12 @@ const AppContent = () => {
           )}
         </button>
 
-        {/* Theme Toggle */}
+      
         <div className="fixed top-3 right-3 lg:absolute lg:top-4 lg:right-4 z-20">
           <ThemeToggle />
         </div>
 
-        {/* Chat Interface */}
+    
         <ChatInterface
           sessionId={currentSessionId}
           onNewSession={handleNewSession}
