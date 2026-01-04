@@ -212,5 +212,5 @@ This project is open source and available for educational purposes.
 
 ## Contributing
 
-Feel free to submit issues and enhancement requests!
+Feel free to submit issues and enhancement requests!... now its in development
 
