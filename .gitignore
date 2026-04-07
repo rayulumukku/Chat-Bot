@@ -1,34 +1,9 @@
-# Dependencies
-node_modules/
-*/node_modules/
-
-# Environment variables
+# created by virtualenv automatically
+/bin
+/etc
+/lib
+/share
 .env
-.env.local
-
-# Logs
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# Build outputs
-build/
-dist/
-*/build/
-*/dist/
-
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Backend specific
-backend/data/mockData.json
-
+CACHEDIR.TAG
+pyvenv.cfg
+test_file.ipynb
